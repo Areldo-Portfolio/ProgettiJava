@@ -33,4 +33,4 @@ Puoi compilare ed eseguire il file `Main.java` per vedere la lista di elementi s
 
 ## Autore
 
-Creato da [Tuo Nome] come esercizio per imparare meglio Java e la programmazione a oggetti.
+Creato da Arelz come esercizio per imparare meglio Java e la programmazione a oggetti.
